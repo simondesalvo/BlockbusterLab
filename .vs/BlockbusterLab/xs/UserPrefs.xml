@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{A3F4BD96-69FF-47EC-9B30-A3D66DA0CDFB}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlockbusterLab FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyClass.cs">
+    <Files>
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Movie.cs" Line="12" Column="60" />
+      <File FileName="VHS.cs" />
+      <File FileName="DVD.cs" />
+      <File FileName="Blockbuster.cs" />
+      <File FileName="EmptyClass.cs" Line="4" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

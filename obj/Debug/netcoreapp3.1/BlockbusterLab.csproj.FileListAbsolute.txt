@@ -1,0 +1,12 @@
+/Users/simon/Documents/GrandCircus/BlockbusterLab/bin/Debug/netcoreapp3.1/BlockbusterLab.deps.json
+/Users/simon/Documents/GrandCircus/BlockbusterLab/bin/Debug/netcoreapp3.1/BlockbusterLab.runtimeconfig.json
+/Users/simon/Documents/GrandCircus/BlockbusterLab/bin/Debug/netcoreapp3.1/BlockbusterLab.runtimeconfig.dev.json
+/Users/simon/Documents/GrandCircus/BlockbusterLab/bin/Debug/netcoreapp3.1/BlockbusterLab.dll
+/Users/simon/Documents/GrandCircus/BlockbusterLab/bin/Debug/netcoreapp3.1/BlockbusterLab.pdb
+/Users/simon/Documents/GrandCircus/BlockbusterLab/obj/Debug/netcoreapp3.1/BlockbusterLab.csprojAssemblyReference.cache
+/Users/simon/Documents/GrandCircus/BlockbusterLab/obj/Debug/netcoreapp3.1/BlockbusterLab.AssemblyInfoInputs.cache
+/Users/simon/Documents/GrandCircus/BlockbusterLab/obj/Debug/netcoreapp3.1/BlockbusterLab.AssemblyInfo.cs
+/Users/simon/Documents/GrandCircus/BlockbusterLab/obj/Debug/netcoreapp3.1/BlockbusterLab.csproj.CoreCompileInputs.cache
+/Users/simon/Documents/GrandCircus/BlockbusterLab/obj/Debug/netcoreapp3.1/BlockbusterLab.dll
+/Users/simon/Documents/GrandCircus/BlockbusterLab/obj/Debug/netcoreapp3.1/BlockbusterLab.pdb
+/Users/simon/Documents/GrandCircus/BlockbusterLab/obj/Debug/netcoreapp3.1/BlockbusterLab.genruntimeconfig.cache
